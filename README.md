@@ -2,6 +2,12 @@
 
 ### 💻 Full Stack Developer | BCA Student | Web Enthusiast
 
+<p align="center">
+  <a href="https://github.com/rolwinbusiness-crypto/IdentityCard">
+    <img src="./identity-card.png" alt="Rolwin Crasta Developer Identity Card" width="400">
+  </a>
+</p>
+
 I build modern, responsive web experiences and I'm currently expanding my skills across web development, Java, and application development.
 
 ---
