@@ -75,3 +75,28 @@ My personal developer portfolio showcasing my skills, projects, certifications, 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rolwinbusiness-crypto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/rolwinbusiness-crypto">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/rolwincrasta/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💡 Currently Building
+
+🚀 Real-world projects  
+💻 Improving my development skills  
+📚 Learning new technologies  
+🎯 Preparing for my software development career
+
+---
+
+⭐ **Thanks for visiting my profile!**
