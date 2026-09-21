@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/rolwinbusiness-crypto/IdentityCard">
-    <img src="./identity-card.png" alt="Rolwin Crasta Developer Identity Card" width="400">
+    <img src="./identity.png" alt="Rolwin Crasta Developer Identity Card" width="400">
   </a>
 </p>
 
