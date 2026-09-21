@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hey, I'm Rolwin Crasta
 
-<!--
-**rolwinbusiness-crypto/rolwinbusiness-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack Developer | BCA Student | Web Enthusiast
 
-Here are some ideas to get you started:
+I build modern, responsive web experiences and I'm currently expanding my skills across web development, Java, and application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🚀 **Currently Learning:** Full Stack Development  
+💡 **Interested In:** Web Development • Java • App Development  
+🎯 **Goal:** Become a professional software developer
+
+---
